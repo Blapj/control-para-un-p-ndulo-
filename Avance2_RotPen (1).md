@@ -6,10 +6,10 @@
 | --- | --- |
 | Proyecto | RotPen – Rotary Inverted Pendulum |
 | Asignatura | Sistemas Embebidos |
-| Integrantes | [COMPLETAR: nombres completos] |
-| Docente | [COMPLETAR] |
+| Integrantes | Javier Lizarazo, Jesús Acuña, Bladimir Parra |
+| Docente | [AMAYA TEJERA NAZHIR JESUS] |
 | Repositorio | [COMPLETAR: URL de GitHub o GitLab] |
-| Fecha de entrega | [COMPLETAR] |
+| Fecha de entrega | 14/10/2026]] |
 
 > Nota para el grupo: todo texto marcado como `[COMPLETAR]` debe ser reemplazado con información real del grupo antes de la entrega. Las figuras 4 a 10 deben ser diseñadas y fotografiadas por el grupo (ver sección 5.9).
 
