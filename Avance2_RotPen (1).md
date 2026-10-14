@@ -24,7 +24,6 @@
 5. [Componente técnico](#5-componente-técnico)
 6. [Verificación de la metodología, del cronograma y dificultades](#6-verificación-de-la-metodología-del-cronograma-y-dificultades)
 7. [Referencias](#7-referencias)
-8. [Anexo A. Lista de verificación frente a la rúbrica](#8-anexo-a-lista-de-verificación-frente-a-la-rúbrica)
 
 ---
 
@@ -617,21 +616,6 @@ En el Avance 1 se adoptó una metodología híbrida: diseño electrónico y mec�
 | Documentación final y preparación de la sustentación | Todos | 14 – 15 | [COMPLETAR] | |
 | Sustentación final | Todos | 16 | [COMPLETAR] | |
 
-### 6.3 Dificultades encontradas
-
-Esta sección debe describir las dificultades **realmente** ocurridas. La Tabla 18 lista riesgos técnicos previsibles en este tipo de proyecto, que sirven de guía; el grupo debe conservar solo los que ocurrieron, añadir los propios y completar la causa, la solución y el aprendizaje.
-
-*Tabla 18. Registro de dificultades (plantilla con riesgos previsibles).*
-
-| N.º | Dificultad | Causa | Solución aplicada | Impacto en el cronograma |
-| --- | --- | --- | --- | --- |
-| 1 | Ruido en las señales de los encoders cuando el motor arranca | Acoplamiento del motor sobre cables y tierra compartida | [COMPLETAR] (por ejemplo: filtro RC, 74HC14, cables trenzados o apantallados, separación de tierras) | [COMPLETAR] |
-| 2 | Reinicios del Arduino al arrancar el motor | Caída de la tensión de alimentación por picos de corriente | [COMPLETAR] (por ejemplo: condensador de 1000 µF, buck dedicado) | [COMPLETAR] |
-| 3 | Holgura en el acople por correa | Tensión insuficiente o poleas mal alineadas | [COMPLETAR] (por ejemplo: tensor) | [COMPLETAR] |
-| 4 | Conflicto entre la UART y la programación por USB | El HC-05 comparte D0 y D1 con USB | [COMPLETAR] (jumpers JP1 y JP2) | [COMPLETAR] |
-| 5 | Errores de diseño en la PCB (huellas, orientación de conectores) | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 6 | Retrasos en la entrega de componentes o en la fabricación de la PCB | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 7 | [COMPLETAR: otras dificultades propias del grupo] | | | |
 
 ---
 
@@ -667,23 +651,3 @@ Esta sección debe describir las dificultades **realmente** ocurridas. La Tabla 
 
 ---
 
-## 8. Anexo A. Lista de verificación frente a la rúbrica
-
-*Tabla 19. Lista de verificación de los entregables.*
-
-| Criterio del enunciado | Puntaje | Dónde se cumple | Estado |
-| --- | --- | --- | --- |
-| Título, objetivo general y tres objetivos específicos | 0,5 | Sección 1 | [COMPLETAR] |
-| Planteamiento del problema alineado con el primer entregable | 0,5 | Sección 2 | [COMPLETAR] |
-| Estado del arte y marco teórico | 0,5 | Sección 3 | [COMPLETAR] |
-| Introducción y listado de materiales | 0,5 | Sección 4 | [COMPLETAR] |
-| Componente técnico con imágenes de diseños propios (sin IA) | 2,5 | Sección 5 y figuras 4 a 10 | [COMPLETAR] |
-| Verificación de metodología y cronograma, y dificultades | 0,5 | Sección 6 | [COMPLETAR] |
-| Estructura o gabinete finalizado | Prototipo | Sección 5.11, figura 10 | [COMPLETAR] |
-| PCB fabricada con (casi) todos los componentes soldados | Prototipo | Sección 5.10, figura 10 | [COMPLETAR] |
-| Ensamble de hardware completo con el microcontrolador integrado | Prototipo | Figura 10 | [COMPLETAR] |
-| Superación de la prueba HardExplosion | Prototipo | Tabla 15, fila 12 | [COMPLETAR] |
-| Mismo tipo y tamaño de letra en títulos y párrafos | Obligatorio | Formato del documento | [COMPLETAR] |
-| Títulos, tablas e ilustraciones numerados | Obligatorio | Todo el documento | [COMPLETAR] |
-| Revisión ortográfica (cada error penaliza 0,1) | Obligatorio | Todo el documento | [COMPLETAR] |
-| Sustentación equitativa de todos los integrantes | Calificación grupal | Preparar la exposición | [COMPLETAR] |
