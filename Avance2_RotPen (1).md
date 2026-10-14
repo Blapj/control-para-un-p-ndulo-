@@ -590,12 +590,12 @@ En el Avance 1 se adoptó una metodología híbrida: diseño electrónico y mec�
 
 | Fase | Cumplimiento (Cumplida, Parcial, Pendiente) | Evidencia en el repositorio |
 | --- | --- | --- |
-| Análisis y diseño | [COMPLETAR] | Avance 1 y secciones 1 a 3 |
-| Desarrollo electrónico | [COMPLETAR] | Sección 5, archivos de KiCad |
-| Desarrollo de control | [COMPLETAR] | Avance 3 |
-| Integración y comunicación | [COMPLETAR] | Avance 3 |
-| Pruebas y ajuste | [COMPLETAR] | Tabla 15 |
-| Documentación y sustentación | [COMPLETAR] | Este documento |
+| Análisis y diseño | [Cumplida] | Avance 1 y secciones 1 a 3 |
+| Desarrollo electrónico | [Parcial] | Sección 5, archivos de KiCad |
+| Desarrollo de control | [Cumplida] | Avance 3 |
+| Integración y comunicación | [Parcial] | Avance 3 |
+| Pruebas y ajuste | [Parcia] | Tabla 15 |
+| Documentación y sustentación | [Parcial] | Este documento |
 
 ### 6.2 Verificación del cronograma
 
