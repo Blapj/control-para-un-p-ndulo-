@@ -195,20 +195,19 @@ Según el enunciado, en esta etapa se presenta el prototipo con la estructura o 
 | 2 | Motorreductor DC 12 V con encoder Hall | 1 | Tipo JGB37-520 o equivalente (verificar relación de reducción y corriente de bloqueo en la hoja de datos) | Actuador del brazo y medición de α |
 | 3 | Encoder incremental en cuadratura | 1 | 600 PPR, salida de colector abierto, alimentación de 5 a 24 V | Medición de θ |
 | 4 | Módulo driver BTS7960 | 1 | Puente H doble, hasta 43 A según el fabricante del módulo | Etapa de potencia |
-| 5 | Módulo Bluetooth HC-05 | 1 | Puerto serie Bluetooth | Transmisión de variables |
-| 6 | Fuente conmutada 12 V / 3 A | 1 | Con conector a bornera | Alimentación |
-| 7 | Módulo regulador buck | 1 | Tipo MP1584EN o LM2596, ajustado a 7,5 V | Alimentación del Arduino por VIN |
-| 8 | Rodamientos de bolas | 2 | Bajo rozamiento | Eje de articulación del péndulo |
-| 9 | Perfil y lámina de aluminio | 1 juego | Brazo, columna y péndulo | Mecánica |
-| 10 | Base y gabinete en acrílico o MDF | 1 | Corte láser | Mecánica |
-| 11 | Piezas impresas en PLA | 1 juego | Soportes y acoples de encoder | Mecánica |
-| 12 | Polea y correa dentada | 1 juego | Tipo GT2 | Acople motor–brazo |
-| 13 | PCB de control y potencia | 1 | 2 capas, fabricación por servicio | Integración electrónica |
-| 14 | Componentes electrónicos de la PCB | 1 lote | Ver Tabla 9 | Circuito |
-| 15 | Conectores, cables y tornillería | 1 lote | Bornera, cabezales, termorretráctil | Conexionado |
-| 16 | Pulsador de paro de emergencia (NC) | 1 | Tipo hongo | Seguridad |
-| 17 | Final de carrera | 1 | Micro-interruptor | Límite mecánico del brazo |
-| 18 | Buzzer activo de 5 V | 1 | Alarma sonora | Supervisión |
+| 5 | Fuente conmutada 12 V / 3 A | 1 | Con conector a bornera | Alimentación |
+| 6 | Módulo regulador buck | 1 | Tipo MP1584EN o LM2596, ajustado a 7,5 V | Alimentación del Arduino por VIN |
+| 7 | Rodamientos de bolas | 2 | Bajo rozamiento | Eje de articulación del péndulo |
+| 8 | Perfil y lámina de aluminio | 1 juego | Brazo, columna y péndulo | Mecánica |
+| 9 | Base y gabinete en acrílico o MDF | 1 | Corte láser | Mecánica |
+| 10 | Piezas impresas en PLA | 1 juego | Soportes y acoples de encoder | Mecánica |
+| 11 | Polea y correa dentada | 1 juego | Tipo GT2 | Acople motor–brazo |
+| 12 | PCB de control y potencia | 1 | 2 capas, fabricación por servicio | Integración electrónica |
+| 13 | Componentes electrónicos de la PCB | 1 lote | Ver Tabla 9 | Circuito |
+| 14 | Conectores, cables y tornillería | 1 lote | Bornera, cabezales, termorretráctil | Conexionado |
+| 15 | Pulsador de paro de emergencia (NC) | 1 | Tipo hongo | Seguridad |
+| 16 | Final de carrera | 1 | Micro-interruptor | Límite mecánico del brazo |
+| 17 | Buzzer activo de 5 V | 1 | Alarma sonora | Supervisión |
 
 Las herramientas compartidas del laboratorio (impresora 3D, cortadora láser, estación de soldadura, osciloscopio) no se incluyen en el listado.
 
