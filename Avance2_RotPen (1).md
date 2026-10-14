@@ -603,18 +603,18 @@ En el Avance 1 se adoptó una metodología híbrida: diseño electrónico y mec�
 
 | Actividad | Objetivo (Avance 1) | Semanas planeadas | Estado real | Observaciones |
 | --- | --- | --- | --- | --- |
-| Definición de requisitos y análisis del problema | 1 | 1 – 2 | [COMPLETAR] | |
-| Diseño y evaluación comparativa de arquitecturas | 2 | 2 – 3 | [COMPLETAR] | |
-| Entrega del Avance 1 | 1 y 2 | 3 | [COMPLETAR] | |
-| Diseño de acondicionamiento electrónico y potencia | 4 | 4 – 6 | [COMPLETAR] | |
-| Diseño y fabricación de la PCB | 6 | 5 – 8 | [COMPLETAR] | |
-| Ensamble de la estructura mecánica | 2 y 6 | 6 – 8 | [COMPLETAR] | |
-| Implementación y sintonización del PID | 3 | 8 – 11 | [COMPLETAR] | |
+| Definición de requisitos y análisis del problema | 1 | 1 – 2 | [Completada] |Terminada en el plazo previsto. |
+| Diseño y evaluación comparativa de arquitecturas | 2 | 2 – 3 | [Completada | |
+| Entrega del Avance 1 | 1 y 2 | 3 | [COMPLETAR] | Se eligió la Opción A.| |
+| Diseño de acondicionamiento electrónico y potencia | 4 | 4 – 6 | [Completada	] | Cálculos de filtros y protecciones en la sección 5.|
+| Diseño y fabricación de la PCB | 6 | 5 – 8 | [En curso] |Diseño Matlab; la fabricación se retrasó dos semanas por tiempos del proveedor. |
+| Ensamble de la estructura mecánica | 2 y 6 | 6 – 8 | [Parcial] | |
+| Implementación y sintonización del PID | 3 | 8 – 11 | [Parcial] | |
 | Módulo de transmisión y panel de control | 5 | 9 – 12 | [COMPLETAR] | |
-| Entrega del Avance 2 | 3, 4, 5 y 6 | 12 | [COMPLETAR] | |
-| Pruebas de desempeño y ajuste fino | 7 | 12 – 14 | [COMPLETAR] | |
-| Documentación final y preparación de la sustentación | Todos | 14 – 15 | [COMPLETAR] | |
-| Sustentación final | Todos | 16 | [COMPLETAR] | |
+| Entrega del Avance 2 | 3, 4, 5 y 6 | 12 | [En curso] | |
+| Pruebas de desempeño y ajuste fino | 7 | 12 – 14 | [Pendiente] | |
+| Documentación final y preparación de la sustentación | Todos | 14 – 15 | [Pendiente] | |
+| Sustentación final | Todos | 16 | [Pendiente] | |
 
 
 ---
